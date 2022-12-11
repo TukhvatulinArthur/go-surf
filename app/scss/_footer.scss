@@ -1,0 +1,25 @@
+.footer {
+    text-align: center;
+    padding: 50px 0;
+
+    .button {
+        margin-bottom: 50px;
+
+        &:hover {
+            transform: none;
+        }
+
+        span {
+            background-image: none;
+            padding-right: 17px;
+        }
+    }
+
+    &__copy {
+        font-weight: 300;
+        font-size: 12px;
+        line-height: 14px;
+        letter-spacing: 1.05px;
+        opacity: 0.5;
+    }
+}

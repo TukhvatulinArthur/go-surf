@@ -29,6 +29,6 @@ GitHub Pages:
 
    [https://tukhvatulinarthur.github.io/go-surf/dist/index.html](https://tukhvatulinarthur.github.io/go-surf/dist/index.html)
 
-Известный возможный баг:
+Известный баг:
 
     Иногда могут пропадать slider-dots'ы на главном экране

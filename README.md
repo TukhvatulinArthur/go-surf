@@ -18,6 +18,7 @@
 
     1. npm i
     2. gulp
+    3. gulp build - для билд сборки
     
     
 Figma: 
